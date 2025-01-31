@@ -8,11 +8,11 @@ Evaluates performance with accuracy, precision, recall, and AUC-ROC.
 Aims to improve healthcare outcomes with AI-driven insights.
 
 Technologies Used:
--Python
--TensorFlow/Keras
--Pandas, NumPy
--Scikit-learn
--Matplotlib/Seaborn
+Python,
+TensorFlow/Keras,
+Pandas, NumPy
+Scikit-learn,
+Matplotlib/Seaborn
 
 Dataset:
 Includes drug profiles and patient characteristics.
